@@ -32,7 +32,7 @@ carga trasera, robots AGV en fábricas y transporte de carga frágil o peligrosa
 
 - `Paper cientifico TSPPDL.pdf` — Paper breve en formato IEEE (4–6 páginas)  
 - `TSPPD_con_carga:lifo.pds` — Póster académico divulgativo  
-- `TSPPD_paper.tex` — Fuente LaTeX del póster  
+- `TSPPD_paper.tex` — Fuente LaTeX del paper  
 
 ## Temas cubiertos
 
